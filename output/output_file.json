@@ -1,0 +1,14 @@
+[
+    {
+        "ID": "Image_ID_/home/omr_sid/Gemmi_OCR/Images/sample_2.png",
+        "Text": "The doorman turned his attention\nto the next red-eyed emerger from the\ndark; and we went on together to\nthe statia, the children silent because\nof the cruelty of the world. Finally Catherine\nsaid, her eyes wet again: 'I think its all\nabsolutely beastly, and I can't bear to think\nabout it.' And Philip said: 'But we've got\nto think about it, don't you see, because\nif we don't it'll just go on and on, don't\nyou see?'"
+    },
+    {
+        "ID": "Image_ID_/home/omr_sid/Gemmi_OCR/Images/sample_hindi_2.png",
+        "Text": "लेकिन फंड का सदुपयोग\nकरती हो। पर्यावरण सरंक्षक\nकोई लेना देना नहीं है।\nएक संस्था से मैंने तुम्हें\nसरंक्षण के लिए सम्मानित\nऔर अखबारों में तुम्हारे\nहोने के फोटो छपवाये है\nतुम समझती हो कि\nका कुड़ा-करकट पडौझी"
+    },
+    {
+        "ID": "Image_ID_/home/omr_sid/Gemmi_OCR/Images/sample_maths_1.jpg",
+        "Text": "Question Integrate wrt x\n∫8m²x dx\nSolution\n∫8m²x dx\n= ∫[(1 - Cos2x)/2]dx\n= ∫[(1/2) - (Cos2x)/2] dx\n= ∫(1/2)dx - ∫(Cos2x)/2 dx\n= x/2 - (1/2)∫Cos2x dx\n= x/2 - (1/2)[8m2x/2] + c\n= x/2 - 8m2x/4 + c  Ans"
+    }
+]
