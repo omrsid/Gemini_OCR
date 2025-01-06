@@ -1,0 +1,1 @@
+# Extracting handwritten text
