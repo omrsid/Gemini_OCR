@@ -1,5 +1,5 @@
 # Extracting handwritten text
-<h1>Deploy</h1>
+<h2>Deploy</h2>
 <ul>
-  <i><Libs</i>
+  <h3>Libs</h3>
 </ul>
