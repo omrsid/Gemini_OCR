@@ -2,6 +2,8 @@
 
 This project is a **Python-based GUI application** that uses the **Google Generative AI API** to extract text from images, including handwritten text. The application supports multilingual text (e.g., Hindi) and saves the extracted results to a JSON file.
 
+![alt text](https://github.com/omrsid/Gemini_OCR/blob/master/Images/output_image.png?raw=true)
+
 ---
 
 ## Features
