@@ -1,0 +1,74 @@
+[
+    {
+        "answer": [
+            {
+                "ID": "S1_Q1",
+                "Text": "This is a handwritten text recognition\npipeline that operates on scanned pages\nand applies the following operations:\nDetect words\nRead words"
+            }
+        ]
+    },
+    {
+        "answer": [
+            {
+                "ID": "S1_Q1",
+                "Text": "my name is apple\nmy name is apple"
+            }
+        ]
+    },
+    {
+        "answer": [
+            {
+                "ID": "S1_Q1",
+                "Text": "my name is apple\n[my name is apple]"
+            }
+        ]
+    },
+    {
+        "answer": [
+            {
+                "ID": "S1_Q1",
+                "Text": "my name is apple\nmy name is apple"
+            }
+        ]
+    },
+    {
+        "answers": [
+            {
+                "ID": "S1_Q1",
+                "Text": "x² -8x +15 = 0\na = 1   b = -8   c = 15\nx₁,₂ = -b ±√b² - 4ac\n             2a\n= -(-8) ± √(-8)² - 4.1.15\n             2.1\n= 8 ± √64 - 60\n            2\n= 8 ± √4\n       2\n= 8 ± 2\n       2\nx₁ = 8 + 2 = 10 = 5\n             2     2\nx₂ = 8 - 2 = 6 = 3\n             2     2"
+            }
+        ]
+    },
+    {
+        "answers": [
+            {
+                "ID": "S1_Q1",
+                "Text": "my name is apple\nmy name is apple"
+            }
+        ]
+    },
+    {
+        "answers": [
+            {
+                "ID": "S1_Q1",
+                "Text": "x² -8x +15 = 0\na = 1   b = -8   c = 15\nx₁,₂ = -b ±√b² - 4ac\n               2a\n= -(-8) ± √(-8)² - 4 . 1 . 15\n                2 . 1\n= 8 ± √64 - 60\n             2\n= 8 ± √4\n       2\n= 8 ± 2\n      2\nx₁ = 8 + 2 = 10 = 5\n          2     2\nx₂ = 8 - 2 = 6 = 3\n         2     2"
+            }
+        ]
+    },
+    {
+        "answers": [
+            {
+                "ID": "S1_Q1",
+                "Text": "my name is apple\nmy name is apple"
+            }
+        ]
+    },
+    {
+        "answers": [
+            {
+                "ID": "S1_Q1",
+                "Text": "x² - 8x + 15 = 0\na = 1  b = -8  c = 15\nx₁,₂ = -b ± √b² - 4ac\n2a\n= -(-8) ± √(-8)² - 4 . 1 . 15\n2 . 1\n= 8 ± √64 - 60\n2\n= 8 ± √4\n2\n= 8 ± 2\n2\nx₁ = 8 + 2 = 10 = 5\n2       2\nx₂ = 8 - 2 = 6 = 3\n       2       2"
+            }
+        ]
+    }
+]

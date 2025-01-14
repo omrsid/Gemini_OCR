@@ -3,3 +3,5 @@ venv/
 
 # identifier
 *.Identifier
+
+.env
