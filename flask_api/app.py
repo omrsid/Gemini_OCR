@@ -1,5 +1,4 @@
 import json
-from types import new_class
 import requests
 from flask import Flask, request, render_template, jsonify
 import os

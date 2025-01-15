@@ -5,3 +5,5 @@ venv/
 *.Identifier
 
 .env
+Images/
+output/

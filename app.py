@@ -4,9 +4,11 @@ import google.generativeai as genai
 import json
 import tkinter as tk
 from tkinter import filedialog, messagebox
+from dotenv import load_dotenv
 
 
 # Config the Google AI API
+load_dotenv()
 API_KEY = os.getenv("GOOGLE_API_KEY")
 if not API_KEY:
     raise ValueError("API key not add to env variable")
